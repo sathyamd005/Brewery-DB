@@ -1,0 +1,65 @@
+body{
+   background-image:url("brewey\ bg\ img\ 1.jpg");
+   background-size:cover ;
+   background-repeat: no-repeat;
+   /* background-position:top; */
+}
+h1{
+    color:ivory;
+    margin-bottom: 20px;
+}
+img{
+    margin:10px 10px;
+    width: 100px;
+    background-color: beige;
+}
+div{
+    margin-top: 30px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+input{
+    height:37px;
+    width: 500px;
+}
+#button{
+    margin-bottom: 5px;
+}
+.card{
+  background-image:linear-gradient(to left,rgb(39, 38, 38),rgb(91, 89, 89),rgb(57, 56, 56));
+}
+.card-body,.card,.card-footer{
+    margin:0px;
+    padding:5px;
+}
+.headers{
+    color:text-white;
+    margin-top: 110px;
+}
+.header1{
+    padding-right: 60%;
+}
+.header3{
+    padding-left: 40%;
+    color:black;
+}
+.cards{
+    margin-left: 300px;
+}
+.card1{
+    margin-left: 16px;
+}
+.col-md-12{
+    margin-top: 0px;
+}
+.card3{
+    background-image:linear-gradient(to right,rgb(235, 206, 152),rgb(236, 176, 66),rgb(215, 146, 18)) ;
+}
+.space{
+    margin-bottom: 50px;
+}
+ .col-md-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
